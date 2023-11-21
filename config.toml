@@ -2,3 +2,5 @@
   [module.hugoVersion]
     extended = true
     min = '0.90.0'
+pluralizelisttitles = false
+enableGitInfo = true
